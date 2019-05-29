@@ -132,6 +132,7 @@
                   <Menu mnemonicParsing="false" text="Serwer GMC">
                      <items>
                         <CheckMenuItem fx:id="Auto" mnemonicParsing="false" text="Losowanie automatyczne serwera" />
+                        <CheckMenuItem mnemonicParsing="false" text="Monit po losowaniu serwera" />
                         <SeparatorMenuItem mnemonicParsing="false" />
                         <CheckMenuItem fx:id="Six" mnemonicParsing="false" text="172.16.6.6" />
                         <CheckMenuItem fx:id="Seven" mnemonicParsing="false" text="172.16.6.7" />
